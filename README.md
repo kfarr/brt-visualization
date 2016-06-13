@@ -6,7 +6,8 @@ Select intersections:
 - Market and Van Ness
 
 ## How to run?
-* No online demo yet. Instead, follow these instructions to download and install the app locally.
+* Try online: https://brt-webvr-fjrtyyjbhf.now.sh/vn-geary.html
+* Or install and run locally, see below
 
 ## How to install and run?
 * git clone this repo
@@ -14,7 +15,6 @@ Select intersections:
 * npm start
 * your browser should open a new tab
 * the console should show the local IP address and port for testing in browser
-* navigate to /vn-geary.html or /vn-market.html
 
 # Random dev notes below
 
