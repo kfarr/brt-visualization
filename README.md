@@ -5,10 +5,10 @@ Select intersections:
 - Geary and Van Ness
 - Market and Van Ness
 
-# How to run?
+## How to run?
 * No online demo yet. Instead, follow these instructions to download and install the app locally.
 
-# How to install and run?
+## How to install and run?
 * git clone this repo
 * npm install
 * npm start
@@ -16,14 +16,14 @@ Select intersections:
 * the console should show the local IP address and port for testing in browser
 * navigate to /vn-geary.html or /vn-market.html
 
-*** Dev notes below
+# Random dev notes below
 
-# OSM2World for source map data
+## OSM2World for source map data
 This project uses osm2world for exporting Open Street Maps data into 3D vertices in obj format. The object can be modified using Blender, handy for reducing extraneous layers from Open Street Map that can distract the visualizations.
 
 See http://osm2world.org/
 
-# How export 3D data from OSM2World?
+## How export 3D data from OSM2World?
 * Open OSM2World (Java download required)
 * Click "File > Download OSM data"
 * Use Google Maps to find maximum / minimums of longitudes and latitudes or use example values below
@@ -41,7 +41,7 @@ GEARY AND VAN NESS: (inclusive of O'Farrell)
 	37.786415 MAX, -122.41935 MAX
 	37.784058 MIN, -122.423218 MIN
 
-# Sample A-Frame code for importing obj files as assets
+## Sample A-Frame code for importing obj files as assets
 <a-scene>
   <a-assets>
     <a-asset-item id="tree-obj" src="/path/to/tree.obj"></a-asset-item>
@@ -51,6 +51,6 @@ GEARY AND VAN NESS: (inclusive of O'Farrell)
 More docs here:
 https://aframe.io/docs/0.2.0/components/obj-model.html
 
-# Other projects that could be integrated
+## Other projects that could be integrated
 * https://github.com/IdeaSpaceVR/aframe-particle-system-component
 * https://github.com/richardanaya/aframe-webvr-controller
