@@ -14,7 +14,7 @@ Select intersections:
 * npm start
 * your browser should open a new tab
 * the console should show the local IP address and port for testing in browser
-* navigate to /vn-geary.html or /vn-market.html 
+* navigate to /vn-geary.html or /vn-market.html
 
 *** Dev notes below
 
