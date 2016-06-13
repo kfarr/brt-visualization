@@ -1,0 +1,98 @@
+# This file was created by OSM2World 0.2.0 - http://osm2world.org
+
+newmtl ASPHALT_0
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+map_Ka ./textures/MarekAsphalt0001.jpg
+map_Kd ./textures/MarekAsphalt0001.jpg
+
+newmtl ROAD_MARKING_DASHED_0
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+map_Ka ./textures/MarekAsphalt0001.jpg
+map_Kd ./textures/MarekAsphalt0001.jpg
+
+newmtl ROAD_MARKING_DASHED_1
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+map_Ka ./textures/road_marking_dash.png
+map_Kd ./textures/road_marking_dash.png
+
+newmtl MAT_4_0
+Ka 0.39215687 0.39215687 0.39215687
+Kd 0.39215687 0.39215687 0.39215687
+
+newmtl BUS_STOP_SIGN_0
+Ka 0.49019608 0.4509804 0.023529412
+Kd 0.49019608 0.4509804 0.023529412
+
+newmtl STEEL_0
+Ka 0.39215687 0.39215687 0.39215687
+Kd 0.39215687 0.39215687 0.39215687
+
+newmtl MAT_5_0
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+map_Ka ./textures/MarekAsphalt0001.jpg
+map_Kd ./textures/MarekAsphalt0001.jpg
+
+newmtl MAT_5_1
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+map_Ka ./textures/road_marking_crossing.png
+map_Kd ./textures/road_marking_crossing.png
+
+newmtl KERB_0
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+map_Ka ./textures/KnerrKerb0001.png
+map_Kd ./textures/KnerrKerb0001.png
+
+newmtl MAT_6_0
+Ka 0.4 0.0 0.0
+Kd 0.4 0.0 0.0
+
+newmtl FIREHYDRANT_0
+Ka 0.4 0.0 0.0
+Kd 0.4 0.0 0.0
+
+newmtl RED_ROAD_MARKING_0
+Ka 0.5019608 0.26666668 0.26666668
+Kd 0.5019608 0.26666668 0.26666668
+map_Ka ./textures/MarekAsphalt0001.jpg
+map_Kd ./textures/MarekAsphalt0001.jpg
+
+newmtl MAT_7_0
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+map_Ka ./textures/MarekAsphalt0001.jpg
+map_Kd ./textures/MarekAsphalt0001.jpg
+
+newmtl MAT_7_1
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+map_Ka ./textures/road_arrow_right.png
+map_Kd ./textures/road_arrow_right.png
+
+newmtl BUILDING_DEFAULT_0
+Ka 0.5019608 0.4509804 0.27450982
+Kd 0.5019608 0.4509804 0.27450982
+map_Ka ./textures/Fabi2-putz1.png
+map_Kd ./textures/Fabi2-putz1.png
+
+newmtl ROOF_DEFAULT_0
+Ka 0.4 0.0 0.0
+Kd 0.4 0.0 0.0
+
+newmtl EARTH_0
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+map_Ka ./textures/MarekGrassDehydrated0001.jpg
+map_Kd ./textures/MarekGrassDehydrated0001.jpg
+
+newmtl TERRAIN_DEFAULT_0
+Ka 0.5019608 0.5019608 0.5019608
+Kd 0.5019608 0.5019608 0.5019608
+map_Ka ./textures/MarekGrasMoos0001_background.png
+map_Kd ./textures/MarekGrasMoos0001_background.png
+
